@@ -1,13 +1,13 @@
-package com.dannyjae.springbootvuejschat;
+package com.dannyjae.chatweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootVuejsChatApplication {
+public class ChatWebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootVuejsChatApplication.class, args);
+        SpringApplication.run(ChatWebApplication.class, args);
     }
 
 }

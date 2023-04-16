@@ -1,1 +1,4 @@
 rootProject.name = 'springboot-vuejs-chat'
+include 'chat-api'
+include 'chat-common'
+include 'chat-web'

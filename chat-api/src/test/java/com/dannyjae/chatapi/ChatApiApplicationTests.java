@@ -1,10 +1,10 @@
-package com.dannyjae.springbootvuejschat;
+package com.dannyjae.chatapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootVuejsChatApplicationTests {
+class ChatApiApplicationTests {
 
     @Test
     void contextLoads() {
